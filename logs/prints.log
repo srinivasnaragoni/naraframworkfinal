@@ -1,0 +1,7 @@
+22:19:26.271 [TestNG-tests-1] DEBUG tests.LoginTest - Email address got entered
+22:19:26.351 [TestNG-tests-1] DEBUG tests.LoginTest - Password got entered
+22:19:26.906 [TestNG-tests-1] DEBUG tests.LoginTest - Cliked on Login button
+22:19:36.953 [TestNG-tests-1] DEBUG tests.LoginTest - User didn't Login
+22:19:36.953 [TestNG-tests-1] INFO  tests.LoginTest - Login Test got passed
+22:19:36.953 [TestNG-tests-1] ERROR tests.LoginTest - Login test got failed
+22:19:37.053 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got closed
